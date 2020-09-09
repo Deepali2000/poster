@@ -11,10 +11,10 @@
   background-color:var(--white);
   background-image:url(../img/themobileshopposter-copy-fill-1-3DD4CC6E-A5CC-45DC-B8CD-3804D7334FFB.png);
   background-size:100% 100%;
-  height:842px;
+  height: 470px;
   overflow:hidden;
   position:relative;
-  width:563px;
+  width:656px;
 }
 .themobiles-postercopy .bizrise-m5x5n3 {
   background-color:rgba(255,255,255,0);
@@ -30,12 +30,12 @@
   font-family:"BarlowCondensed-Medium", Helvetica, Arial, serif;
   font-size:21.0px;
   height:auto;
-  left:40px;
+  left: 17px;
   letter-spacing:0.00px;
   line-height:25.0px;
   position:absolute;
   text-align:left;
-  top:269px;
+  top: 213px;
   white-space:nowrap;
   width:477px;
 }
@@ -61,7 +61,7 @@
   line-height:32.0px;
   position:absolute;
   text-align:left;
-  top:229px;
+  top: 174px;
   white-space:nowrap;
   width:auto;
 }
@@ -72,20 +72,20 @@
   height:178px;
   left:0px;
   position:absolute;
-  top:664px;
-  width:563px;
+  top: 561px;
+  width:656px;
 }
 .themobiles-postercopy .group-3-NOXmfT {
   background-color:rgba(255,255,255,0);
   height:67px;
   left:40px;
   position:relative;
-  top:49px;
+  top: 15px;
   width:477px;
 }
 .themobiles-postercopy .group-4-iZjIT4 {
   background-color:var(--white);
-  height:300px;
+  height: 300px;
   left:0px;
   position:absolute;
   top:0px;
@@ -93,10 +93,10 @@
 }
 .themobiles-postercopy .group-5-C61RwL {
   background-color:rgba(255,255,255,0);
-  height:300px;
+  height: 230px;
   left:0px;
   position:absolute;
-  top:334px;
+  top: 260px;
   width:517px;
 }
 .themobiles-postercopy .group-6-SO40Oe {
@@ -120,7 +120,7 @@
   height:119px;
   left:386px;
   position:absolute;
-  top:694px;
+  top:572px;
   width:142px;
 }
 .themobiles-postercopy .group-71-xZ6GWR {
@@ -148,21 +148,21 @@
   width:275px;
 }
 .themobiles-postercopy .group-C61RwL {
-  background-color:rgba(255,255,255,0);
+  background-color:rgb(89 89 89 / 0%);
   background-image:url(../img/themobileshopposter-copy-fill-1-copy-78A4B314-76B2-4AD7-A2DD-F60D3234210D.png);
   background-size:100% 100%;
-  height:155px;
+  height: 118px;
   left:0px;
   position:absolute;
-  top:0px;
-  width:563px;
+  /* top:0px; */
+  width:656px;
 }
 .themobiles-postercopy .image-48-j2aF3b {
   background-color:rgba(255,255,255,0);
   height:28px;
-  left:247px;
+  left: 252px;
   position:absolute;
-  top:77px;
+  top: 51px;
   width:28px;
 }
 .themobiles-postercopy .image-95-5FNhjl {
@@ -181,7 +181,7 @@
   left:0px;
   position:absolute;
   text-align:left;
-  top:33px;
+  top: 19px;
   white-space:nowrap;
   width:auto;
 }
@@ -202,7 +202,7 @@
   line-height:44.0px;
   position:absolute;
   text-align:left;
-  top:185px;
+  top: 135px;
   white-space:nowrap;
   width:auto;
 }
@@ -217,7 +217,7 @@
   line-height:41.0px;
   position:absolute;
   text-align:left;
-  top:113px;
+  top: 66px;
   white-space:nowrap;
   width:auto;
 }
@@ -238,7 +238,7 @@
   line-height:41.0px;
   position:absolute;
   text-align:left;
-  top:21px;
+  top: -9px;
   white-space:nowrap;
   width:auto;
 }
@@ -246,15 +246,14 @@
   background-color:rgba(255,255,255,0);
   color:rgba(0,0,0,1.0);
   font-family:"BarlowCondensed-Medium", Helvetica, Arial, serif;
-  font-size:22.0px;
+  font-size:20.0px;
   height:auto;
   left:337px;
   letter-spacing:0.00px;
   line-height:26.0px;
   position:absolute;
   text-align:left;
-  top:168px;
-  width:180px;
+  top: 116px;
 }
 .themobiles-postercopy .select-iZjIT4 {
   background-color:rgba(255,255,255,0);
@@ -265,7 +264,7 @@
   line-height:41.0px;
   position:absolute;
   text-align:left;
-  top:67px;
+  top: 28px;
   white-space:nowrap;
   width:auto;
 }
@@ -285,7 +284,7 @@
   line-height:29.0px;
   position:absolute;
   text-align:left;
-  top:0px;
+  top: -13px;
   white-space:nowrap;
   width:auto;
 }
@@ -338,7 +337,7 @@
   line-height:46.0px;
   position:absolute;
   text-align:left;
-  top:66px;
+  top: 42px;
   white-space:nowrap;
   width:261px;
 }
